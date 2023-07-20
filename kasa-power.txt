@@ -9,3 +9,13 @@ b0:be:76:c1:ac:e tplink-plug-pow6 smartthings-hub appkettle
 68:ff:7b:95:8:6d tplink-plug-pow8 tplink-bulb tplink-plug2 blink-security-hub
 68:ff:7b:71:8f:89 tplink-plug-pow7
 68:ff:7b:95:8:5e tplink-plug-pow10
+9c:a2:f4:6e:fb:19 tapo_plug110_1 arlo_camera_pro4 blink_mini_camera simplicam ring_indoor_cam vtech_baby_monitor ring_chime_pro boifun_baby wyze_cam_pan_v2 ring_doorbell google_nest_doorbell
+ac:16:a2:46:95:a0 tapo_plug110_2 aqara_hubM2 switchbot_hub_mini
+ac:15:a2:46:95:fc tapo_plug110_4 tapo_plug110_3 tapo_plug110_38 tapo_plug110_39 netatmo_weather_station sensibo_sky_sensor
+9c:a2:f4:6e:de:25 tapo_plug110_38 wiz_smart_bulb
+30:de:4b:4d:53:e0 tapo_plug110_24 furbo_dog_camera
+30:de:4b:4d:84:6e tapo_plug110_25 ecovacs_vacuum weekett_kettle petsafe_feeder eufy_robovac govee_strip_light lifx_mini
+30:de:4b:4d:44:40 tapo_plug110_33 sonos_speaker bose_speaker
+30:de:4b:4d:44:b6 tapo_plug110_34 google_nest_hub
+ac:15:a2:46:9e:82 tapo_plug110_36 echodot4
+ac:15:a2:46:9f:5b tapo_plug110_37 echodot5
