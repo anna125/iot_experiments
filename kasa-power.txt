@@ -1,14 +1,3 @@
-b0:be:76:c1:ac:6a tplink-plug-pow1 yi-camera google-home allure-speaker
-68:ff:7b:a6:13:d tplink-plug-pow9 reolink-cam-wired
-d8:d:17:56:b1:76 tplink-plug-pow2 xiaomi-ricecooker
-d8:d:17:56:a9:81 tplink-plug-pow3
-d8:d:17:86:1:4a tplink-plug-pow4 switchbot-hub
-b0:be:76:c1:a3:86 tplink-plug-pow5
-b0:be:76:c1:ac:e tplink-plug-pow6 smartthings-hub appkettle
-68:ff:7b:71:90:7 tplink-plug-pow11
-68:ff:7b:95:8:6d tplink-plug-pow8 tplink-bulb tplink-plug2 blink-security-hub
-68:ff:7b:71:8f:89 tplink-plug-pow7
-68:ff:7b:95:8:5e tplink-plug-pow10
 9c:a2:f4:6e:fb:19 tapo_plug110_1 arlo_camera_pro4 blink_mini_camera simplicam ring_indoor_cam vtech_baby_monitor ring_chime_pro boifun_baby wyze_cam_pan_v2 ring_doorbell google_nest_doorbell
 ac:16:a2:46:95:a0 tapo_plug110_2 aqara_hubM2 switchbot_hub_mini
 ac:15:a2:46:95:fc tapo_plug110_4 tapo_plug110_3 tapo_plug110_38 tapo_plug110_39 netatmo_weather_station sensibo_sky_sensor
