@@ -1,3 +1,4 @@
+ac:15:a2:46:9a:35 tapo_plug_11
 9c:a2:f4:6e:fb:19 tapo_plug110_1 arlo_camera_pro4 blink_mini_camera simplicam ring_indoor_cam vtech_baby_monitor ring_chime_pro boifun_baby wyze_cam_pan_v2 ring_doorbell google_nest_doorbell
 ac:16:a2:46:95:a0 tapo_plug110_2 aqara_hubM2 switchbot_hub_mini
 ac:15:a2:46:95:fc tapo_plug110_4 tapo_plug110_3 tapo_plug110_38 tapo_plug110_39 netatmo_weather_station sensibo_sky_sensor
